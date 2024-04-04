@@ -1,7 +1,5 @@
 # {{TITLE}}
 
-## TD:LR
-
 
 ## Full Changelog
 - 
